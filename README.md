@@ -24,7 +24,7 @@ This decoded the string into the python script, which I've saved as puzzle.py an
 ## The command I ran
 In a terminal window, from the same directory where I saved puzzle.py, I ran this:
 
-  DONT_PANIC=1 python3 puzzle.py --candidate "Chris LeBoeuf"
+    DONT_PANIC=1 python3 puzzle.py --candidate "Chris LeBoeuf"
 
 ## The exact output I received
 

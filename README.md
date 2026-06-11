@@ -11,7 +11,7 @@ I asked ChatGPT to decode this string (actually my first thought was this was a 
 ## How I decoded the original string
 I opened up a terminal window and entered this:
 
-  echo 'IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo...' | base64 -d
+    echo 'IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo...' | base64 -d
 
 This decoded the string into the python script, which I've saved as puzzle.py and added to my repository.
 

@@ -28,9 +28,9 @@ In a terminal window, from the same directory where I saved puzzle.py, I ran thi
 
 ## The exact output I received
 
->Decrypted password: 42
->Candidate: Chris LeBoeuf
->Proof code: 3e6d2ec5f925
+>Decrypted password: 42 <br>
+>Candidate: Chris LeBoeuf <br>
+>Proof code: 3e6d2ec5f925 <br>
 
 ## The final decrypted answer
 

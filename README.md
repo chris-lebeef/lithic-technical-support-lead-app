@@ -9,7 +9,7 @@ Then I found a URL under the 'What You'll Bring' section (the alias 'problem-sol
 I asked ChatGPT to decode this string (actually my first thought was this was a hash of some kind, so I asked ChatGPT to 'un-hash'). ChatGPT told me this could be decoded with Python or directly in a terminal window, and gave me the command to do so.
 
 ## How I decoded the original string
-I opened up a terminal window and entered this:
+I opened up a terminal window and entered this (string truncated for brevity):
 
     echo 'IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwo...' | base64 -d
 
